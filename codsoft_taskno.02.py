@@ -31,7 +31,7 @@ def clear_entry(event):
 
 root = Tk()
 root.title("Calculator App")
-root.geometry("550x700")
+root.geometry("300x650")
 
 bg_color = "#E0E0E0"
 button_color = "#D1D1D1"
